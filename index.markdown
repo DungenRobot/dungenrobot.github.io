@@ -9,6 +9,6 @@ excerpt: >
 header:
     overlay_color: "#3d143c"
     actions:
-        - label: "<i class='fab fa-itch-io'></i> &nbsp; take me back to that other place"
+        - label: "<i class='fab fa-itch-io'></i> &nbsp; take me to that other place"
           url: "https://dungenrobot.itch.io/"
 ---

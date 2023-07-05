@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 Howdy ya'll, I have two big announcements to share!
 
 First: Theme voting for The Jam 2 is [out now!](https://forms.gle/XzJWG9rTFuoyrpKBA)
