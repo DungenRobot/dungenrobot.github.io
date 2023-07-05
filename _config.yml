@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dungen's Blog
+title: DungenRobot.com
 title_separator: "\\"
 name: "Anders Olsen"
 logo: "/assets/icon.png"
@@ -42,6 +42,8 @@ site:
   description: "DungenRobot's funtastic blog"
 
 #https://fontawesome.com/icons
+#https://fontawesome.com/v4/icons/
+#https://fontawesome.cc
 footer:
   links:
     - label: "Email"
@@ -54,7 +56,7 @@ footer:
       icon: "fab fa-youtube"
       url: "https://youtube.com/@dungenrobot"
     - label: "Discord"
-      icon: "fa-brands fa-discord"
+      icon: "fab fa-discord"
       url: "https://discord.gg/YUECSUHHM8"
 
 plugins:
@@ -64,7 +66,7 @@ plugins:
 defaults:
     #_posts
   - scope:
-      path: ""
+      path: "/blog"
       type: posts
     values:
       layout: single
