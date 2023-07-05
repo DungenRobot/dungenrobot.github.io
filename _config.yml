@@ -59,6 +59,7 @@ footer:
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache 
 
 defaults:
     #_posts
