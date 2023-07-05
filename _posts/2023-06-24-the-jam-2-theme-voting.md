@@ -1,5 +1,6 @@
 ---
 layout: single
+title: The Jam 2 - Theme Voting
 ---
 
 Howdy ya'll, I have two big announcements to share!
