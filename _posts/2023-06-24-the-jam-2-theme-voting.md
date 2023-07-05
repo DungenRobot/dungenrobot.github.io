@@ -1,5 +1,4 @@
 ---
-layout: single
 title: The Jam 2 - Theme Voting
 ---
 
