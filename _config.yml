@@ -66,8 +66,8 @@ plugins:
 defaults:
     #_posts
   - scope:
-      path: "blog"
-      type: posts
+      path: "_posts"
+      #type: posts
     values:
       layout: single
       show_date: true
