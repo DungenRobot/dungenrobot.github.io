@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DungenRobot.com
+title: dungenrobot.com
 title_separator: "\\"
 name: "Anders Olsen"
 logo: "/assets/icon.png"
@@ -66,7 +66,7 @@ plugins:
 defaults:
     #_posts
   - scope:
-      path: "/blog/"
+      path: "blog"
       type: posts
     values:
       layout: single
