@@ -5,6 +5,8 @@ permalink: "/jam/02"
 
 We're back! It's time to take a look at everyone's fabulous work.
 
+Yes I know my website colors are broken. No I do not know why.
+
 After you're done looking through, head to the voting form to select categories (link at the [end of the post]()). All entries are ordered by submission date. Let's head into our first entry:
 
 # Flanders Fields
@@ -30,7 +32,7 @@ We focus on placing one foot in front of the other.\
 Alas, your mortality you cannot smother.\
     Your bones will break and into the past you will pass.\
 All the same, journey, journey, until you die.\
-So you may sleep, dearest soil, with your headstone held high.\
+So you may sleep, dearest soil, with your headstone held high.
 
 \- The Altruist
 
