@@ -5,7 +5,7 @@ title: "Category Winners!"
 Howdy ya'll! I'm back to reveal the winners of our three categories!
 
 <details>
-    <summary title="test">Excellent Aestetics</summary>
+    <summary>Excellent Aesthetics</summary>
     Our first winner is...
 
     <b> Sun and Moon in the Sky </b> by @Teagodess224

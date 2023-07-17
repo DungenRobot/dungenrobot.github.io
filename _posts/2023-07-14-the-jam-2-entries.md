@@ -13,7 +13,7 @@ After you're done looking through, head to the voting form to select categories 
 
 ![Flanders Fields Image](/assets/jam/2/flandersfields.png)
 
-\- Anonymous
+\- beanz
 
 
 # Lullaby to Soil
