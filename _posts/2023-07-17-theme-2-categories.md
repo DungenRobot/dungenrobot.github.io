@@ -69,4 +69,4 @@ You've all been hard at work voting, time to see the fruits of your labor.
 <br><br>
 Congrats to all the winners! Like the winners of the last jam, your trophies will not be sent to you as they do not exist.
 
-That's all for this post! Sorry for the lack of dev-logs, I'm on vacation with a super underpowered laptop as my only computer. It's drawing out development time but it's also forcing me to worry a *lot* more about optimizing this project. As always, if you haven't already: [head over to my discord]() to participate in future jams! See ya'll soon!
+That's all for this post! Sorry for the lack of dev-logs, I'm on vacation with a super underpowered laptop as my only computer. It's drawing out development time but it's also forcing me to worry a *lot* more about optimizing this project. As always, if you haven't already: [head over to my discord](https://discord.com/invite/YUECSUHHM8) to participate in future jams! See ya'll soon!

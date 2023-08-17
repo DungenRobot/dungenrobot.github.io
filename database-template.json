@@ -1,0 +1,44 @@
+{
+    "users":{
+        "Mark": {
+            "username": "xXCoolGuyXx",
+            "servers": {
+                "Cool-SMP": "member",
+                "Based-SMP": "owner"
+            }
+        },
+        "Joan": {
+            "username": "LoveLace",
+            "servers": {
+                "Cool-SMP": "owner",
+                "Based-SMP": "member"
+            }
+        },
+        "Sam": {
+            "username": "TinyRock7",
+            "servers": {
+                "Cool-SMP": "member"
+            }
+        }
+    },
+    "servers":{
+        "Cool_SMP":{
+            "name": "The Coolest SMP Ever",
+            "icon": "test",
+            "owner": "Joan",
+            "member-list": {
+                "Joan": true,
+                "Mark": true,
+                "Sam": true
+            }
+        },
+        "Based-SMP":{
+            "name": "The Most Basedest SMP Ever",
+            "icon": "test",
+            "owner": "Mark",
+            "members": {
+
+            }
+        }
+    }
+}
