@@ -13,8 +13,6 @@ Note: I use the terms "service", "website", "app", and "platform" interchangeabl
 
 I immediately opened up [Firebase](https://firebase.google.com). I'd been interested in using it before, but never thought it up to the task of managing a multiplayer game. This project, however, is much more suited to Firebase's strengths 
 
-
-
 # How login works
 
 When we open the login page, we're actually redirecting the user to a different website entirely: google's authentication. When the user enters their login info, they are redirected *back* to our website with some extra info. Our site reads this data, then uses it to login. For this reason we have to be intentional about how we design our service. In addition: some users store their authentication info locally so they don't have to login every time. This means we have three different states a user could be starting up our service in.
