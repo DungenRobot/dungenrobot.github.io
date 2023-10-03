@@ -40,6 +40,10 @@ This piece was heavily inspired by Taylor Swift’s song “the 1,” which I fe
 
 ![time not yet right image](/assets/jam/3/turn%20off%20the%20damn%20light%20base%20-%20Your%20Future%20Robot%20Overlord.png)
 
+Unfinished.  Would be better if lit/shaded but it is currently 11:40PM at the deadline so oh well.  It might not be apparent what the meaning is, even if you know me, but the one hint I give is I almost always make *heavy* use of color symbolism.
+
+I used CSP's 3D models to trace over the pose and parts of the background (not the light).  Harder than it looks, especially with his specific requirements (eg. a jawline that can cut glass).
+
 \- Surgeus
 
 That's all for this jam! I unfortunately didn't have time to participate this go around, but I'm grateful for everyone who did! As always, head over to [the discord](https://discord.com/invite/YUECSUHHM8) if you want to stay up to date with the jam and everything else I do! See ya'll later
