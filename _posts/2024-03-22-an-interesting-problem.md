@@ -1,6 +1,6 @@
 ---
 title: "An Interesting Problem"
-published: false
+published: true
 ---
 
 This is a slight bit more technical than usual but it'll be doing my best to explain it as clearly as possible.
