@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 Hello! My name is Anders Olsen. I go by DungenRobot online. This is a blog containing most of the things I do on the internet.
+
+Everything is "woke" and left-leaning. 
