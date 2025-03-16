@@ -53,7 +53,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dungenrobot"
     - label: "BlueSky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-bluesky"
       url: "https://bsky.app/profile/dungenrobot.com"
     - label: "Discord"
       icon: "fab fa-discord"
